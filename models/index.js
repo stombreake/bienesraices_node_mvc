@@ -1,4 +1,4 @@
-import Mensaje from './mensaje.js'
+import Mensaje from './Mensaje.js'
 import Propiedad from './Propiedad.js'
 import Precio from './Precio.js'
 import Categoria from './Categoria.js'
